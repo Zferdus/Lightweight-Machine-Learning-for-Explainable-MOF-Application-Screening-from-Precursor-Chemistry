@@ -1,0 +1,7 @@
+application,action,n,observed_positive_rate,mean_calibrated_probability
+co2_capture,deprioritize,854,0.16627634660421545,0.20851807669671144
+co2_capture,needs further testing,228,0.42105263157894735,0.5372221155657757
+co2_capture,prioritize,98,0.8061224489795918,0.7976031284532494
+ch4_storage,deprioritize,957,0.1786833855799373,0.11456338431189614
+ch4_storage,needs further testing,95,0.5052631578947369,0.5298328428443294
+ch4_storage,prioritize,128,0.828125,0.8687223748964398

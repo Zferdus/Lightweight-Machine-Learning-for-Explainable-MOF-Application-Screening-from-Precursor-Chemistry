@@ -1,0 +1,16 @@
+application,deployment_model,feature,mean_abs_shap,shap_trend,materials_meaning
+co2_capture,random_forest,metal_electronegativity_avg,0.033840204494131554,negative,average metal electronegativity
+co2_capture,random_forest,metal_covalent_radius_avg,0.02236011850225819,positive,average metal covalent radius
+co2_capture,random_forest,metal_Cu,0.017363203527817717,negative,metal identity indicator
+co2_capture,random_forest,metal_atomic_weight_avg,0.015890805137806652,positive,average metal atomic weight
+co2_capture,random_forest,metal_atomic_number_avg,0.015021056189714976,positive,average metal atomic number
+co2_capture,random_forest,num_metal_atoms,0.012661197000337453,negative,metal-node nuclearity
+co2_capture,random_forest,MolLogP,0.009886759188164616,negative,hydrophobicity indicator
+co2_capture,random_forest,MolWt,0.008399118767639345,nonlinear,associated with linker/framework size
+co2_capture,random_forest,metal_Mn,0.007583501231296557,positive,metal identity indicator
+co2_capture,random_forest,NumCarboxylGroups,0.007252517827290121,positive,carboxylate coordination-group count
+co2_capture,random_forest,HeavyAtomCount,0.006605179757037296,nonlinear,linker size proxy
+co2_capture,random_forest,TPSA,0.0064822576502536694,positive,polar surface area; associated with framework polarity
+co2_capture,random_forest,NumRotatableBonds,0.005853003813160696,positive,linker flexibility indicator
+co2_capture,random_forest,RingCount,0.005356241254746693,negative,overall linker ring content
+co2_capture,random_forest,fp_107,0.005037199565684073,positive,substructure: ccc

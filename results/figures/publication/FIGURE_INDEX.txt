@@ -1,0 +1,19 @@
+Paper 2 revised publication figures
+
+Each figure is provided separately in PNG and PDF.
+No manuscript caption is embedded inside the figure.
+
+baseline_comparison_ch4_storage_revised.png
+baseline_comparison_co2_capture_revised.png
+calibration_ch4_storage_raw_vs_platt.png
+calibration_co2_capture_raw_vs_platt.png
+low_compute_inference_time_revised.png
+low_compute_training_time_revised.png
+metal_holdout_ch4_storage_revised.png
+metal_holdout_co2_capture_revised.png
+primary_auc_ch4_storage_revised.png
+primary_auc_co2_capture_revised.png
+scaffold_leakage_audit_revised.png
+scaffold_split_balance_revised.png
+shap_importance_ch4_storage_revised.png
+shap_importance_co2_capture_revised.png

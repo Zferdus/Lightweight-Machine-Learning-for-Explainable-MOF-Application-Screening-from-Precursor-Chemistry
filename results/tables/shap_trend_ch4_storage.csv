@@ -1,0 +1,16 @@
+application,deployment_model,feature,mean_abs_shap,shap_trend,materials_meaning
+ch4_storage,xgboost,metal_covalent_radius_avg,0.5821765661239624,negative,average metal covalent radius
+ch4_storage,xgboost,num_metal_atoms,0.287492960691452,positive,metal-node nuclearity
+ch4_storage,xgboost,HeavyAtomCount,0.1925601065158844,positive,linker size proxy
+ch4_storage,xgboost,NumCarboxylGroups,0.18269416689872742,positive,carboxylate coordination-group count
+ch4_storage,xgboost,MolWt,0.1584184169769287,positive,associated with linker/framework size
+ch4_storage,xgboost,RingCount,0.1486010104417801,positive,overall linker ring content
+ch4_storage,xgboost,FractionCSP3,0.1457117646932602,negative,sp3 fraction; flexibility/rigidity indicator
+ch4_storage,xgboost,NumAromaticRings,0.1346675455570221,positive,aromatic-ring count; associated with rigidity
+ch4_storage,xgboost,n_linker_fragments,0.1319745033979416,negative,number of parsed organic precursor fragments
+ch4_storage,xgboost,NumHeteroatoms,0.12595795094966888,negative,heteroatom content
+ch4_storage,xgboost,metal_electronegativity_avg,0.10728059709072113,positive,average metal electronegativity
+ch4_storage,xgboost,fp_199,0.10047779232263565,negative,substructure: cc(c)C
+ch4_storage,xgboost,metal_atomic_weight_avg,0.08708608150482178,negative,average metal atomic weight
+ch4_storage,xgboost,fp_104,0.08091907203197479,positive,substructure: cc(c)C(=O)[O-]
+ch4_storage,xgboost,NumPyridylN,0.07435434311628342,negative,pyridyl-type nitrogen count

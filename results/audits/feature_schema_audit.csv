@@ -1,0 +1,4 @@
+feature_group,n_rows,n_features,n_missing,all_numeric
+precursor_only,7870,320,0,True
+descriptor_only,7870,17,0,True
+precursor_descriptor,7870,337,0,True

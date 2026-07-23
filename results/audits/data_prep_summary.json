@@ -1,0 +1,8 @@
+{
+  "pipeline_version": "3.0.0",
+  "raw_rows": 8571,
+  "modeling_rows": 7870,
+  "excluded_unparseable": 701,
+  "unique_canonical_precursors": 5557,
+  "master_table_sha256": "948be0fea4acf55a7d91ab15b8e2892f4176065a510b925a583a734615d33338"
+}

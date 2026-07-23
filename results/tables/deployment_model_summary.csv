@@ -1,0 +1,3 @@
+application,seed,feature_group,model_name,best_params,validation_auc,validation_f1,selected_probability_threshold,label_cutoff_value
+co2_capture,42,precursor_descriptor,random_forest,"{""max_depth"": 16, ""min_samples_leaf"": 1, ""n_estimators"": 250}",0.7760776182306934,0.5844027640671273,0.215,2.546270269
+ch4_storage,42,precursor_descriptor,xgboost,"{""learning_rate"": 0.1, ""max_depth"": 4, ""n_estimators"": 150}",0.8349846938775509,0.6095238095238096,0.32,8.241883439925001

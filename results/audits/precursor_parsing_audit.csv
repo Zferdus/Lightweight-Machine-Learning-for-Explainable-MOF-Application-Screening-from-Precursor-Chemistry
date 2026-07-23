@@ -1,0 +1,9 @@
+metric,value
+n_rows_before_exclusion,8571
+n_unique_raw_precursors,6077
+n_unique_canonical_precursors,6052
+n_linker_parse_failed,701
+n_rows_with_multiple_linker_fragments,2597
+n_rows_with_auxiliary_fragments,623
+n_rows_with_ambiguous_fragments,0
+n_rows_without_recognized_metal,0
